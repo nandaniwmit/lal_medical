@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #f8fafc; /* Warm neutral slate-50 */
+    color: #1e293b; /* slate-800 */
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  }
+
+  /* Fine-grained focus ring styling for inputs and buttons */
+  input:focus, select:focus, textarea:focus {
+    border-color: #0A8F6A !important;
+    outline: none !important;
+    box-shadow: 0 0 0 3px rgba(10, 143, 106, 0.15) !important;
+  }
+}
+
+/* Custom scrollbar for high density lists and grids */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.02);
+  border-radius: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(10, 143, 106, 0.2);
+  border-radius: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(10, 143, 106, 0.4);
+}
+
+/* Custom layout helper to maintain high density containers */
+.dense-card {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0; /* slate-200 */
+  border-radius: 1rem; /* rounded-2xl */
+  padding: 1.25rem; /* p-5 */
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease-in-out;
+}
+
+.dense-card:hover {
+  border-color: #cbd5e1; /* slate-300 */
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+}

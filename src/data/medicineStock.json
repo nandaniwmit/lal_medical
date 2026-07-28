@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "medicineName": "Paracetamol (Calpol 650mg)",
+    "brand": "GSK (GlaxoSmithKline)",
+    "mrp": 30.50,
+    "availableQuantity": 150,
+    "expiry": "12/2027",
+    "status": "Available"
+  },
+  {
+    "id": "2",
+    "medicineName": "Pantocid 40mg (Pantoprazole)",
+    "brand": "Sun Pharma",
+    "mrp": 145.00,
+    "availableQuantity": 80,
+    "expiry": "08/2027",
+    "status": "Available"
+  },
+  {
+    "id": "3",
+    "medicineName": "Augmentin 625 DUO (Amoxicillin CV)",
+    "brand": "GSK (GlaxoSmithKline)",
+    "mrp": 220.00,
+    "availableQuantity": 4,
+    "expiry": "11/2026",
+    "status": "Limited Stock"
+  },
+  {
+    "id": "4",
+    "medicineName": "Glycomet GP2 (Metformin + Glimepiride)",
+    "brand": "USV Pvt Ltd",
+    "mrp": 110.00,
+    "availableQuantity": 120,
+    "expiry": "05/2028",
+    "status": "Available"
+  },
+  {
+    "id": "5",
+    "medicineName": "Atorva 10mg (Atorvastatin)",
+    "brand": "Zydus Cadila",
+    "mrp": 95.00,
+    "availableQuantity": 60,
+    "expiry": "04/2027",
+    "status": "Available"
+  },
+  {
+    "id": "6",
+    "medicineName": "Okacet 10mg (Cetirizine)",
+    "brand": "Cipla",
+    "mrp": 18.20,
+    "availableQuantity": 0,
+    "expiry": "09/2026",
+    "status": "Out of Stock"
+  },
+  {
+    "id": "7",
+    "medicineName": "Azithral 500mg (Azithromycin)",
+    "brand": "Alembic",
+    "mrp": 130.00,
+    "availableQuantity": 45,
+    "expiry": "03/2027",
+    "status": "Available"
+  },
+  {
+    "id": "8",
+    "medicineName": "Combiflam Tablet",
+    "brand": "Sanofi India",
+    "mrp": 45.00,
+    "availableQuantity": 95,
+    "expiry": "02/2028",
+    "status": "Available"
+  },
+  {
+    "id": "9",
+    "medicineName": "Becosules Capsules (Vitamin B-Complex)",
+    "brand": "Pfizer",
+    "mrp": 50.00,
+    "availableQuantity": 200,
+    "expiry": "01/2028",
+    "status": "Available"
+  },
+  {
+    "id": "10",
+    "medicineName": "Volini Spray 40g",
+    "brand": "Sun Pharma",
+    "mrp": 160.00,
+    "availableQuantity": 25,
+    "expiry": "10/2027",
+    "status": "Available"
+  },
+  {
+    "id": "11",
+    "medicineName": "Electral Powder 21.8g",
+    "brand": "FDC Ltd",
+    "mrp": 22.50,
+    "availableQuantity": 300,
+    "expiry": "06/2028",
+    "status": "Available"
+  },
+  {
+    "id": "12",
+    "medicineName": "Omron HEM-7120 BP Monitor",
+    "brand": "Omron Healthcare",
+    "mrp": 2450.00,
+    "availableQuantity": 2,
+    "expiry": "N/A",
+    "status": "Limited Stock"
+  },
+  {
+    "id": "13",
+    "medicineName": "Dettol Antiseptic Liquid 500ml",
+    "brand": "Reckitt Benckiser",
+    "mrp": 235.00,
+    "availableQuantity": 0,
+    "expiry": "03/2029",
+    "status": "Out of Stock"
+  },
+  {
+    "id": "14",
+    "medicineName": "Revital H Capsules 30s",
+    "brand": "Sun Pharma",
+    "mrp": 350.00,
+    "availableQuantity": 55,
+    "expiry": "07/2027",
+    "status": "Available"
+  },
+  {
+    "id": "15",
+    "medicineName": "Himalaya Baby Wipes 72s",
+    "brand": "Himalaya Drug Company",
+    "mrp": 190.00,
+    "availableQuantity": 40,
+    "expiry": "12/2027",
+    "status": "Available"
+  }
+]
