@@ -270,16 +270,8 @@ export default function Footer() {
           <div className="text-center md:text-right space-y-1">
             <p>© {new Date().getFullYear()} Lal Medical. All rights reserved.</p>
             <p>
-              Developed by{' '}
-              <a 
-                href="https://main.webmakerit.com" 
-                target="_blank" 
-                rel="noopener noreferrer" 
-                className="text-[#0A8F6A] hover:underline font-semibold inline-flex items-center space-x-0.5"
-              >
-                <span>WMIT</span>
-                <ExternalLink className="w-3 h-3" />
-              </a>
+              {' '}
+              <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
             </p>
           </div>
         </div>
